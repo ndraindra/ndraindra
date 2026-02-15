@@ -20,7 +20,7 @@ As a computer science student, I believe that technology is a tool for turning i
 
 ## My Latest Posts
 <ul>
-  <li><a href="https://indradwiyulianto.my.id/blog-detail/teknologi-masa-depan-tantangan-dan-tren-yang-akan-terjadi"><b><img src="https://indradwiyulianto.my.id/assets/uploads/blog/88e8aef0f4402ef21d2c24543e55020c.jpg" width="20" alt="post_1" /> Teknologi Masa Depan Tantangan Dan Tren Yang Akan Terjadi.</i></li><br>
+  <li><a href="https://indradwiyulianto.my.id/blog-detail/teknologi-masa-depan-tantangan-dan-tren-yang-akan-terjadi"><b><img src="https://github.com/user-attachments/assets/b43d8581-74ff-42d9-9c45-07a1bc589c7e" width="20" alt="post_1" /> Teknologi Masa Depan Tantangan Dan Tren Yang Akan Terjadi.</i></li><br>
   <li><a href="https://indradwiyulianto.my.id/blog-detail/metaverse-sebagai-tren-teknologi-digital-terbaru"><b><img src="https://indradwiyulianto.my.id/assets/uploads/blog/6a9c7ccb804b55fbc9354be383d7c8c5.jpg" width="20" alt="post_2" /> Metaverse Sebagai Tren Teknologi Digital Terbaru.</i></li><br>
   <li><a href="https://indradwiyulianto.my.id/blog-detail/upload-project-di-github"><b><img src="https://indradwiyulianto.my.id/assets/uploads/blog/71dadc0e921d77671549d73893c4c7c2.png" width="20" alt="post_3" /> Upload Project Di Github.</i></li>
 </ul>
